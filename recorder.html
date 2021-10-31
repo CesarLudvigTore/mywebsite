@@ -1,0 +1,11 @@
+---
+layout: page
+title: Recorder vidoes
+---
+
+
+{%for recordevideo in site.data.videos.recorder_videos%}
+    <h3>{{recordevideo.name}}</h3> <br> {{recordevideo.link}}
+
+{% endfor %}
+
