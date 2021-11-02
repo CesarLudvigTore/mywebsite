@@ -1,13 +1,14 @@
 recorder_videos:
+  - name: Recorder playlist
+    link: https://www.youtube.com/embed/videoseries?list=PLEYrMI37wMbplhGJmqhlYv0VUSwC6zMsU
+
   - name: Gustavs skål
-    link: https://www.youtube.com/embed/watch?v=7yh9i0PAjck
-    language: Swedish
+    link: https://www.youtube.com/embed/yg8bmAbdgn4
 
   - name: Gustavs skål1
-    link: https://www.youtube.com/embed/watch?v=7yh9i0PAjck
-    language: Swedish
+    link: https://www.youtube.com/embed/yg8bmAbdgn4
 
 poem_videos:
   - name: Bevara, Gud, vårt fosterland
-    link: https://www.youtube.com/embed/watch?v=7yh9i0PAjck
+    link: https://www.youtube.com/embed/yg8bmAbdgn4
     language: Swedish
