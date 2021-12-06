@@ -1,5 +1,6 @@
-- name: "Project1"
-  description: "We model stuff here"
+code:
+  - name: "Project1"
+    description: "We model stuff here"
 
-- name: "Project2"
-  description: "No modelling here!"
+  - name: "Project2"
+    description: "No modelling here!"

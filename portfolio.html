@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /Portfolio/
 ---
 
-site.data.projects.
-
-
-
+{%for project in site.data.projects.code%}
+    HEJ
+    <h3>{{project.name}}</h3> 
+    <p>{{project.description}}</p>
+{% endfor %}
