@@ -3,11 +3,6 @@ layout: page
 title: Home
 ---
 
-Hi, I am Christian and this is my website. <br>
-<br>
-
-I play the recorder and want to share some songs I have recorded. I will also share some of my projects on this website. 
-
 {% for category in site.categories %}
-    <h4><a href="{{category | first }}">To {{category | first }} posts </a></h4>
+    <h3><a href="{{category | first }}">Go to {{category | first }} posts </a></h3>
 {% endfor %}
