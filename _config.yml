@@ -43,11 +43,11 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - Index.html
-  - About.html
-  - Portfolio.html
-  - Recorder.html
-  - Categories.html
+  - index.html
+  - about.html
+  - portfolio.html
+  - recorder.html
+  - categories.html
 
 
 # Exclude from processing.
